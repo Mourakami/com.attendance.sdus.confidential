@@ -1,4 +1,4 @@
-# Politique de Confidentialité - SDUS Présence
+# Politique de Confidentialité - SDUS Services
 
 **Dernière mise à jour : 29 mars 2025**
 
