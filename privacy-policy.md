@@ -15,6 +15,7 @@ Nous collectons les types de données suivants :
 - **Données d'utilisation** : présence aux cours, statistiques d'assiduité
 - **Images et fichiers** : photos de justificatifs pour les notes de frais (uniquement avec votre consentement)
 - **Données techniques** : informations sur l'appareil, journaux d'accès
+- **Données de localisation** : information de localisation collecté pour le badging (uniquement lors de la validation de prise de poste ou fin de poste)
 
 ## 3. Utilisation des données
 
@@ -67,11 +68,13 @@ Notre application peut demander les autorisations suivantes :
 
 - **Stockage** : Nécessaire pour enregistrer temporairement les justificatifs avant leur téléchargement.
 
+- **Géolocalisation** : Nécessaire pour le badging afin de localiser le lieu d'activité, uniquement utilisé lors de la validation de la prise de poste ou fin de poste, cette fonction nécessite votre consentement préalable
+
 Vous pouvez à tout moment accorder, refuser ou révoquer ces autorisations via les paramètres de votre appareil. Si vous refusez certaines autorisations, les fonctionnalités correspondantes seront désactivées, mais vous pourrez continuer à utiliser le reste de l'application.
 
 ## 9. Cookies et technologies similaires
 
-Notre application utilise des technologies de stockage local pour améliorer votre expérience. Ces données sont stockées uniquement sur votre appareil et ne sont pas partagées avec des tiers.
+Notre application utilise des technologies de stockage local pour améliorer votre expérience. Ces données sont stockées sur votre appareil. Les informations liées à l'activités, le badging, les données de profils, les données de présences, les notes de frais sont sauvegardés sur un serveur afin de permettre la mise en place des services. Aucune information n'est partagées avec des tiers.
 
 ## 10. Transferts internationaux
 
@@ -86,7 +89,7 @@ Nous pouvons mettre à jour cette politique de confidentialité de temps à autr
 Si vous avez des questions concernant cette politique de confidentialité ou la manière dont nous traitons vos données, veuillez nous contacter à :
 
 - **E-mail** : privacy@sdus.fr
-- **Adresse postale** : SDUS, 123 Avenue des Sports, 75001 Paris, France
+- **Adresse postale** : SDUS, 123 Avenue des Sports, 93200 Saint Denis, France
 
 ## 13. Consentement
 
