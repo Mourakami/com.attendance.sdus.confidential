@@ -15,7 +15,7 @@ Nous collectons les types de données suivants :
 - **Données d'utilisation** : présence aux cours, statistiques d'assiduité
 - **Images et fichiers** : photos de justificatifs pour les notes de frais (uniquement avec votre consentement)
 - **Données techniques** : informations sur l'appareil, journaux d'accès
-- **Données de localisation** : information de localisation collecté pour le badging (uniquement lors de la validation de prise de poste ou fin de poste)
+- **Données de localisation** : informations de localisation collectées pour le badging (uniquement lors de la validation de prise de poste ou fin de poste)
 
 ## 3. Utilisation des données
 
